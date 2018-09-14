@@ -1,0 +1,8 @@
+input/
+output/
+reference/
+trash/
+.ipynb_checkpoints/
+.gitattributes
+.DS_Store
+*.pkl
